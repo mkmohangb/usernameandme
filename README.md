@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @usernameandme
+- 👋 Hi, I’m Manoj
 - 👀 I’m interested in Data Science and Distributed Computing
 - 🌱 I’m currently learning golang, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 usernameandme/usernameandme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
