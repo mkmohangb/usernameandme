@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning golang, React
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=usernameandme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameandme)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 usernameandme/usernameandme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
