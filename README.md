@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning golang, React
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=usernameandme)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameandme)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameandme)
 
 
 <!---
