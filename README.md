@@ -1,2 +1,2 @@
-- 👀 Interested in Data Science and Distributed Computing
+👀 Interested in Data Science and Distributed Computing
 
